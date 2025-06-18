@@ -1,0 +1,7 @@
+.lginBody{
+   background-color: #1e1e2f;
+  background-image: repeating-linear-gradient(60deg, #2e2e3f 0px, #2e2e3f 1px, transparent 1px, transparent 10px);
+}
+.texthsadow{
+    text-shadow: 2px 2px 4px  rgba(255, 255, 0, 0.5);
+}
